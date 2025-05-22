@@ -19,7 +19,7 @@ public class Main {
                 "098123653", "Administración",20);
         docente.Mostrar_Inf_Personal();
 
-        Docente_Linea docente_linea=new Docente_Linea("098726183","Enrique","Recreo","enrique@gmail.com","Ciencias Administrativas",
+        Docente_Linea docente_linea=new Docente_Linea("098726183","Enrique","Recreo","098765321","enrique@gmail.com","Ciencias Administrativas",
             300,"Fijo");
         docente_linea.Mostrar_Inf_Personal();
 
